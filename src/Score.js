@@ -11,8 +11,9 @@ export default class Score extends React.Component {
 
         return(
             <div>
-                <h1>Score: {score}</h1>
                 
+                <h1>Score: {score}</h1>
+
             </div>
         )
     }

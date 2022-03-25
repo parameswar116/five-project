@@ -1,5 +1,10 @@
 import React from 'react'  
-import LoopProps from './Loopsprops'  
+import LoopProps from './Loopsprops'  ;
+
+
+
+
+
 function Propsusage() {  
    let order = [  
       { customerName: 'murali', progress: 10 },  

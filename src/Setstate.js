@@ -10,7 +10,7 @@ constructor(){
 
 }
 updateSetState(){
-    this.setState({msg:"best tutorial"})
+    this.setState({msg:"best tutorials"})
 }
 
   render() {

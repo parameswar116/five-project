@@ -19,6 +19,7 @@ export default class Appcomponent extends React.Component {
       this.setState(prevState => ({
         score: prevState.score + newScore,
         count: prevState.count + count
+      
       }))
     }
   
